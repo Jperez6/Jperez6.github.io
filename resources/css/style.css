@@ -38,7 +38,6 @@ body {
 /* REUSABLE COMPONENTS */
 /* ----------------------------------------------- */
 
-
 .row {
     max-width: 1140px;
     margin: 0 auto;
@@ -442,6 +441,7 @@ header {
     width: 100%;
     height: auto;
     margin-bottom: 15px;
+    align-content: center;
 }
 
 .city-feature {
@@ -698,5 +698,4 @@ footer p {
 .js--wp-3.animated {
     opacity: 1;
 }
-
 
